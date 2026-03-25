@@ -1,1 +1,36 @@
-# mycv
+<section id="education" class="section section-education">
+  <h2 class="section-title">Education</h2>
+
+  <div class="timeline">
+
+    <!--
+      Duplicate .timeline-item for each degree / programme.
+    -->
+
+    <div class="timeline-item">
+      <div class="timeline-date">
+        <span class="date-start">Year</span>
+        <span class="date-sep">–</span>
+        <span class="date-end">Year</span>
+      </div>
+      <div class="timeline-body">
+        <h3 class="timeline-role">Degree Name</h3>
+        <p class="timeline-org">University · Location</p>
+        <p class="timeline-detail">Thesis / Specialisation: <em>Title here</em></p>
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-date">
+        <span class="date-start">Year</span>
+        <span class="date-sep">–</span>
+        <span class="date-end">Year</span>
+      </div>
+      <div class="timeline-body">
+        <h3 class="timeline-role">Degree Name</h3>
+        <p class="timeline-org">University · Location</p>
+      </div>
+    </div>
+
+  </div>
+</section>
